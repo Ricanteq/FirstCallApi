@@ -1,0 +1,17 @@
+# Ignore large files
+*.exe
+*.dll
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+*.mp4
+*.avi
+*.flv
+*.mov
+
+# Ignore packages and dependencies
+/bin/
+/obj/
+/packages/
